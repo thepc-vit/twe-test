@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/tweapp/static/css/main.00770f9f.chunk.css",
+    "main.js": "/tweapp/static/js/main.0eca3aed.chunk.js",
+    "main.js.map": "/tweapp/static/js/main.0eca3aed.chunk.js.map",
+    "runtime-main.js": "/tweapp/static/js/runtime-main.b4eb4a23.js",
+    "runtime-main.js.map": "/tweapp/static/js/runtime-main.b4eb4a23.js.map",
+    "static/css/2.13c6718b.chunk.css": "/tweapp/static/css/2.13c6718b.chunk.css",
+    "static/js/2.c8dcbecb.chunk.js": "/tweapp/static/js/2.c8dcbecb.chunk.js",
+    "static/js/2.c8dcbecb.chunk.js.map": "/tweapp/static/js/2.c8dcbecb.chunk.js.map",
+    "index.html": "/tweapp/index.html",
+    "precache-manifest.ce69b2acea9589884d6e8211d9ec6459.js": "/tweapp/precache-manifest.ce69b2acea9589884d6e8211d9ec6459.js",
+    "service-worker.js": "/tweapp/service-worker.js",
+    "static/css/2.13c6718b.chunk.css.map": "/tweapp/static/css/2.13c6718b.chunk.css.map",
+    "static/css/main.00770f9f.chunk.css.map": "/tweapp/static/css/main.00770f9f.chunk.css.map",
+    "static/js/2.c8dcbecb.chunk.js.LICENSE.txt": "/tweapp/static/js/2.c8dcbecb.chunk.js.LICENSE.txt",
+    "static/media/chevron-left.svg": "/tweapp/static/media/chevron-left.5727f869.svg",
+    "static/media/chevron-right.svg": "/tweapp/static/media/chevron-right.9c59704b.svg",
+    "static/media/dollar-sign.svg": "/tweapp/static/media/dollar-sign.cbeab270.svg",
+    "static/media/dot-pattern.1c251c8f.svg": "/tweapp/static/media/dot-pattern.1c251c8f.svg",
+    "static/media/email-newsletter-icon.7064f155.svg": "/tweapp/static/media/email-newsletter-icon.7064f155.svg",
+    "static/media/facebook-icon.5e030c93.svg": "/tweapp/static/media/facebook-icon.5e030c93.svg",
+    "static/media/logo.svg": "/tweapp/static/media/logo.f9776f55.svg",
+    "static/media/map-pin.svg": "/tweapp/static/media/map-pin.b2f804bd.svg",
+    "static/media/menu.svg": "/tweapp/static/media/menu.ca394ec8.svg",
+    "static/media/play-circle.svg": "/tweapp/static/media/play-circle.36f0e6ee.svg",
+    "static/media/star.svg": "/tweapp/static/media/star.ac8ea213.svg",
+    "static/media/stats-illustration.svg": "/tweapp/static/media/stats-illustration.a200bad4.svg",
+    "static/media/svg-decorator-blob-1.ec52da39.svg": "/tweapp/static/media/svg-decorator-blob-1.ec52da39.svg",
+    "static/media/svg-decorator-blob-3.159be247.svg": "/tweapp/static/media/svg-decorator-blob-3.159be247.svg",
+    "static/media/twitter-icon.7189052c.svg": "/tweapp/static/media/twitter-icon.7189052c.svg",
+    "static/media/x.svg": "/tweapp/static/media/x.b0200bf7.svg",
+    "static/media/youtube-icon.45e500e6.svg": "/tweapp/static/media/youtube-icon.45e500e6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4eb4a23.js",
+    "static/css/2.13c6718b.chunk.css",
+    "static/js/2.c8dcbecb.chunk.js",
+    "static/css/main.00770f9f.chunk.css",
+    "static/js/main.0eca3aed.chunk.js"
+  ]
+}
